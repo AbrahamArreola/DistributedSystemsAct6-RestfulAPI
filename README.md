@@ -1,0 +1,1 @@
+A basic implementation of an API which can be used to manage academic data with his http routes that do CRUD actions to students scores.
